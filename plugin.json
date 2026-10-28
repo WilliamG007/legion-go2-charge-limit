@@ -1,0 +1,12 @@
+{
+  "name": "Legion Go 2 Charge Limit",
+  "author": "htmac",
+  "flags": ["root"],
+  "api_version": 1,
+  "main": "main.py",
+  "bin": "dist/index.js",
+  "publish": {
+    "tags": ["root", "battery", "legion"],
+    "description": "Game Mode on/off for the Legion Go 2 SteamOS Desktop Mode Charge Limit (~80%). Tested on SteamOS 3.9."
+  }
+}
